@@ -1,0 +1,16 @@
+# dune exec git_ocaml
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/devashishsood/.cache/dune/db
+# Workspace root: /Users/devashishsood/Projects/git-ocaml
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/devashishsood/Projects/git-ocaml/_opam/bin/ocamlc.opt -config > /var/folders/r5/jn7w490d3tb6vq90t7pnkfqh0000gn/T/dune_468518_output
