@@ -1,2 +1,3 @@
 (library
- (name git_ocaml))
+ (name git_ocaml)
+ (libraries inifiles cmdliner ptime re digestif camlzip))
